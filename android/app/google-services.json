@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "449388787025",
+    "project_id": "golocate-54d4c",
+    "storage_bucket": "golocate-54d4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449388787025:android:13a6df107e14673f524f70",
+        "android_client_info": {
+          "package_name": "com.example.golocate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449388787025-s9makkul0pdi7umm02q6p70v7om70gce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEeyDNv3xGbHTvtOnBkB8r-N8aea7hqOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449388787025-s9makkul0pdi7umm02q6p70v7om70gce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

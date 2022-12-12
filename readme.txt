@@ -1,0 +1,1 @@
+Sebelum menjalankan aplikasi atau flutter server file json terlebih dahulu pada lib -> back_end lalu git bash http-helper . -p 8000
