@@ -23,7 +23,7 @@ class _MyTicketPageState extends State<MyTicketPage> {
   @override
   void initState() {
     super.initState();
-    WidgetsBinding.instance?.addPostFrameCallback((timeStamp) {
+    WidgetsBinding.instance.addPostFrameCallback((timeStamp) {
       var ticPro = Provider.of<TiketProvider>(context, listen: false);
       var regisPro = Provider.of<RegisterProvider>(context, listen: false);
       var id = int.parse(regisPro.getActiveUser[0]['user_id'].toString());
