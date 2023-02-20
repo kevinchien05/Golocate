@@ -1,0 +1,13 @@
+{
+    "Welcome_on": "Ben arrivato",
+    "Email_address": "Indirizzi email",
+    "Email_must": "Email sbagliata",
+    "Email_not_found": "Email non trovata",
+    "Password_must": "Password errata",
+    "Wrong_Password": "Password errata",
+    "Forget_Password": "Ha dimenticato la password",
+    "Button_Sign_in": "Accedere",
+    "Dont_have_acc": "Non ho un account ?",
+    "Sign_up": "Crea un account",
+    "Password": "Password"
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889220874230",
+    "project_id": "uas-be",
+    "storage_bucket": "uas-be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889220874230:android:d0138e8f6ed7cc458411d7",
+        "android_client_info": {
+          "package_name": "com.example.golocate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889220874230-pujg6hktshptvhenqog7febbe4u5uo6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-bPxF0nOADCnsYBc13BD_VLaoZ3kW2Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889220874230-pujg6hktshptvhenqog7febbe4u5uo6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

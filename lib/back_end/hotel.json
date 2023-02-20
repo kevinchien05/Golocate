@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "nama_hotel": "Hotel Alasca",
+        "kota": "Medan",
+        "harga": 350000,
+        "rating": 4.5,
+        "gambar": "https://blog.bookingtogo.com/wp-content/uploads/2021/12/tipe-kamar-hotel-superior.jpg",
+        "keterangan": {
+            "tamu": 2,
+            "kasur": 2,
+            "mandi": 1
+        },
+        "des": "Make yourself at home in one of the 17 air-conditioned rooms featuring kitchens with full-sized refrigerators/freezers and ovens ..."
+    },
+    {
+        "id": 2,
+        "nama_hotel": "Hotel Jakarta",
+        "kota": "Jakarta",
+        "harga": 450000,
+        "rating": 4.6,
+        "gambar": "https://blog.bookingtogo.com/wp-content/uploads/2021/12/tipe-kamar-standard-room.jpg",
+        "keterangan": {
+            "tamu": 1,
+            "kasur": 1,
+            "mandi": 1
+        },
+        "des": "Hotel Jakarta create a classy and comfortable hotel. Hotel Jakarta also present a spacious room with one king-size beds, and equipped with TV and air conditioning."
+    },
+    {
+        "id": 3,
+        "nama_hotel": "Hotel Kemang",
+        "kota": "Jakarta",
+        "harga": 650000,
+        "rating": 4.0,
+        "gambar": "https://blog.bookingtogo.com/wp-content/uploads/2021/12/jenis-kamar-hotel-deluxe.jpg",
+        "keterangan": {
+            "tamu": 2,
+            "kasur": 1,
+            "mandi": 1
+        },
+        "des": "Make yourself at home in one of the 17 air-conditioned rooms featuring kitchens with full-sized refrigerators/freezers and ovens ..."
+    },
+    {
+        "id": 4,
+        "nama_hotel": "Hotel Bali",
+        "kota": "Bali",
+        "harga": 1000000,
+        "rating": 4.2,
+        "gambar": "https://blog.bookingtogo.com/wp-content/uploads/2021/12/tipe-kamar-suite-room.jpg",
+        "keterangan": {
+            "tamu": 2,
+            "kasur": 1,
+            "mandi": 1
+        },
+        "des": "Make yourself at home in one of the 17 air-conditioned rooms featuring kitchens with full-sized refrigerators/freezers and ovens ..."
+    },
+    {
+        "id": 5,
+        "nama_hotel": "Hotel Sunny",
+        "kota": "Bali",
+        "harga": 1200000,
+        "rating": 4.5,
+        "gambar": "https://blog.bookingtogo.com/wp-content/uploads/2021/12/kamar-hotel-family-room.jpg",
+        "keterangan": {
+            "tamu": 4,
+            "kasur": 2,
+            "mandi": 1
+        },
+        "des": "Make yourself at home in one of the 17 air-conditioned rooms featuring kitchens with full-sized refrigerators/freezers and ovens ..."
+    },
+    {
+        "id": 6,
+        "nama_hotel": "Hotel Summer",
+        "kota": "Bali",
+        "harga": 800000,
+        "rating": 4.5,
+        "gambar": "https://blog.bookingtogo.com/wp-content/uploads/2021/12/hotel-connecting-room.jpg",
+        "keterangan": {
+            "tamu": 2,
+            "kasur": 1,
+            "mandi": 1
+        },
+        "des": "Make yourself at home in one of the 17 air-conditioned rooms featuring kitchens with full-sized refrigerators/freezers and ovens ..."
+    }
+]
